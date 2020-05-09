@@ -1,0 +1,23 @@
+{
+  "name": "myapp",
+  "version": "1.0.0",
+  "description": "creation of my first server",
+  "main": "index.js",
+  "scripts": {
+    "test": "run:node app/server.js"
+    
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stepinjegan/readyassist-server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stepinjegan/readyassist-server/issues"
+  },
+  "homepage": "https://github.com/stepinjegan/readyassist-server#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
